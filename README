@@ -2,3 +2,4 @@
 2. git push https://gordonmessmer@bitbucket.org/gordonmessmer/test-bifurcation.git master
 3. git push https://github.com/gordonmessmer/test-bifurcation.git master
 4. git clone https://github.com/gordonmessmer/test-bifurcation.git test-bifurcation-2
+5. Add a branch at an older point in master
